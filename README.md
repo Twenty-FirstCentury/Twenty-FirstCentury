@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Urim</h1>
-<h4 align="center">Georgia Tech Research Institute is awesome!!!</h4>
+<h4 align="center">Currently working in the Electronics Systems Laboratory at the Georgia Tech Research Institute.</h4>
 </div>
 
 <div align="center">
