@@ -18,7 +18,7 @@
   - 📚 ELSYS employee at the Georgia Tech Research Institute.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**.
+  - 🌱  I’m always studying **Java**.
 
   - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Crab">"true crab"</a>
 
