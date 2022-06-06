@@ -9,20 +9,4 @@
        alt="snake" /></a>
 </div>
 
----
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<div>
-#### 🧭 &nbsp;About Me
-
-  - 📚 ELSYS employee at the Georgia Tech Research Institute.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
-  - 🌱  I’m always studying **Java**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Crab">"true crab"</a>
-
-  <br>
-  
-
 </div>
