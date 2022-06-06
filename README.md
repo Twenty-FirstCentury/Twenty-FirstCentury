@@ -11,9 +11,8 @@
 
 
 <div>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   ## 🧭 &nbsp;About Me
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   - 📚 ELSYS employee at the Georgia Tech Research Institute.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
