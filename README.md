@@ -8,3 +8,22 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 ELSYS employee at the Georgia Tech Research Institute.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **JavaScript**.
+
+  - 💬 Ask me about **any technology**.
+
+  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+
+  <br>
+  
+
+</div>
